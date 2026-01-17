@@ -21,7 +21,6 @@ for i in range(numofstudents):
         
         
         score['Subject '+str(j+1)]=sub[j]
-        print(score)
 
 
     
