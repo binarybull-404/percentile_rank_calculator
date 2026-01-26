@@ -19,6 +19,7 @@ The program supports multiple students, validates input marks, ranks students by
 
 ---
 
+
 ## How the Program Works
 1. User inputs:
    - Number of students
