@@ -11,7 +11,7 @@ The program supports multiple students, validates input marks, ranks students by
 - Calculates **overall percentage** for each student
 - **Subject-wise fail check** (less than 33%)
 - **Overall fail check** (percentage ≤ 40%)
-- Stores and displays all student percentages
+- Stores and displays **all student percentages**
 - Sorts students by percentage in **descending order**
 - Identifies the **highest scorer**
 - Calculates **percentile ranks** for all students
